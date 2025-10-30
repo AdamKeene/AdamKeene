@@ -1,16 +1,15 @@
-## Hi there 👋
+## [Morphologzinator][https://github.com/AdamKeene/morpholigizinator]
 
-<!--
-**AdamKeene/AdamKeene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple NLP toolkit using Grammatical Framework used for modifying the morphology of phrases, extracting clauses from text, and soon translating text using a rule based and statistical hybrid system.
 
-Here are some ideas to get you started:
+## [Neural Networks][https://github.com/AdamKeene/school/tree/main/neural_networks]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Example applications of neural networks to classify text, identify images, and analyze time series data
+
+## [Information Retrieval][https://github.com/AdamKeene/school/tree/main/applied_info_retrieval]
+
+Local search engine built from scratch which processes, indexes, and scores files across large file systems
+
+## [Testing and Debugging][https://github.com/AdamKeene/forge_test_suite]
+
+Java test suite built for a large external project incorporating a variety of testing techniques and a CI/CD platform
