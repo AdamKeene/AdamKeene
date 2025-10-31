@@ -4,7 +4,7 @@ Hi! I'm a masters student in software engineering at UCI, and I like natural lan
 
 https://github.com/AdamKeene/morpholigizinator
 
-A simple NLP toolkit using Grammatical Framework used for modifying the morphology of phrases, extracting clauses from text, and soon translating text using a rule based and statistical hybrid system.
+A simple NLP toolkit created for a larger project using Grammatical Framework used for modifying the morphology of phrases, extracting clauses from text, and soon translating text using a rule based and statistical hybrid system.
 
 ## Neural-Networks
 
