@@ -1,3 +1,5 @@
+Hi! I'm a masters student in software engineering at UCI, and I like natural language processing, networking, neural networks, and IT automation projects. Here's some of the things I've been working on:
+
 ## Morphologizinator
 
 https://github.com/AdamKeene/morpholigizinator
