@@ -4,7 +4,11 @@
 
 A simple NLP toolkit created for a larger project using Grammatical Framework used for modifying the morphology of phrases, extracting clauses from text, and soon translating text using a rule based and statistical hybrid system.
 
-## [Neural Netowrks](https://github.com/AdamKeene/school/tree/main/neural_networks)
+## [AI App Generator](https://github.com/jaredacord/AIAppGenerator)
+
+A multi-agent AI system that generates complete software projects from natural language descriptions.
+
+## [Neural Networks](https://github.com/AdamKeene/school/tree/main/neural_networks)
 
 Example applications of neural networks to classify text, identify images, and analyze time series data
 
