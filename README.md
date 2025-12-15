@@ -20,6 +20,6 @@ Local search engine built from scratch which processes, indexes, and scores file
 
 Java test suite built for a large external project incorporating a variety of testing techniques and a CI/CD platform
 
-## [Baking Show Analysis](https://github.com/AdamKeene/school/tree/main/Baking%20Show%20Project)
+## [Baking Show Analysis](https://github.com/AdamKeene/school/tree/main/baking_show_project)
 
 Attempting to win the Great British Baking Show using data analytics
